@@ -1,4 +1,10 @@
 {
+  "users" [
+    { "id": 1, "name": "Donald Thrump", "birthdate": "1976-09-23" },
+    { "id": 2, "name": "Jong Lee Shun", "birthdate": "1983-03-07" },
+    { "id": 3, "name": "Ronale Regan", "birthdate": "1986-11-09" },
+    { "id": 4, "name": "Robert Powel", "birthdate": "1984-05-18" }
+  ],
   "posts": [
     { "id": 1, "title": "Post 1" },
     { "id": 2, "title": "Post 2" },
